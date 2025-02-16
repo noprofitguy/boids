@@ -1,6 +1,6 @@
 # boids
-
-[demo](https://boids.dan.onl)
+## if the original creator wishes for this to be taken down, we will comply with requests.
+[demo](https://boids-six.vercel.app)
 
 interactive 2d flocking simulation with many customizable parameters
 
